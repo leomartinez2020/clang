@@ -1,6 +1,6 @@
 # First Week
 
-![The seven steps](/assets/images/clang-seven-steps.png)
+![The seven steps](/assets/clang-seven-steps.png)
 
 The programmer begins by devising an algorithm for the task and splits the planning phase into four steps. After creating a proper algorithm,
 the programmer proceeds to Step 5, translating the plan into code. This phase may start slowly due to unfamiliarity with syntax, but it is
